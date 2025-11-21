@@ -1,0 +1,12 @@
+{
+  "name": "airtable-google-contacts-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server for Airtable to Google Contacts sync",
+  "main": "api/contact-sync.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
